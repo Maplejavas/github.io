@@ -1,0 +1,42 @@
+/*Set boundaries for image max size while retaining aspect ratio*/
+img {
+    display: block;
+    margin: auto;
+    max-width: 500px;
+    max-height: 500px;
+    width: auto;
+    height: auto;
+    padding-top: 25px;
+}
+
+/*Centres image container*/
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+/*Centres text container*/
+.text {
+    display: flex;
+    justify-content: center;
+}
+
+/*Text formatting*/
+.text a {
+    font-family: "hall_feticaregular";
+    position: absolute;
+    color: black;
+    text-decoration: underline;
+    text-align: center;
+    bottom: 10%;
+}
+
+/*Footer formatting*/
+.foot {
+    font-family: 'hall_feticaregular';
+    position: absolute;
+    color: grey;
+    text-align: center;
+    bottom: 2%;
+    font-size: 8;
+}
