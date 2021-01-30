@@ -1,5 +1,3 @@
-#repeat { background-repeat: repeat; }
-
 @font-face {
     font-family: 'hall_feticaregular';
     src: url('hall_fetica-webfont.woff2') format('woff2'),
@@ -7,11 +5,4 @@
     font-weight: normal;
     font-style: normal;
 
-}
-div {
-  width: 400px;
-  height: 125px;
-  border: 5px solid #E18728;
-  margin-bottom: 2em;
-  background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/codepen.png); 
 }
