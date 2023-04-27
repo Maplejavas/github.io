@@ -6,3 +6,73 @@
     font-style: normal;
 
 }
+
+.tumblr {
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+  display:inline;
+  text-align:center;
+}
+img {
+  transition: transform 0.25s;
+}
+.tumblr:hover img {
+  transform: scale(1.1);
+}
+
+.twitter {
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+  display:inline;
+  text-align:center;
+}
+img {
+  transition: transform 0.25s;
+}
+.twitter:hover img {
+  transform: scale(1.1);
+}
+
+.shirt {
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+  display:inline;
+  text-align:center;
+}
+img {
+  transition: transform 0.25s;
+}
+.shirt:hover img {
+  transform: scale(1.1);
+}
+
+.kofi {
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+  display:inline;
+  text-align:center;
+}
+img {
+  transition: transform 0.25s;
+}
+.kofi:hover img {
+  transform: scale(1.1);
+}
+
+.refs {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  display:inline;
+  text-align:center;
+}
+img {
+  transition: transform 0.25s;
+}
+.refs:hover img {
+  transform: scale(1.1);
+}
