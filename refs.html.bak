@@ -2,10 +2,165 @@
 <html>
     <head>
         <title>refs</title>
-     <meta charset="UTF-8" />
-     <meta http-equiv="refresh" content="3; URL=https://imgur.com/a/g2JWRLg" />
-   </head>
+		<link rel="stylesheet" href="stylesheet2.css" type="text/css" charset="utf-8" />
+		<script src="https://unpkg.com/scrollreveal@4"></script>
+		
+	<style>
+					body{
+				font-family: 'hall_feticaregular';
+							}
+	body {
+	background-image: linear-gradient(to bottom right, rgba(0,235,235,.25), rgba(255, 96, 180, 0.8)) ,url("https://mofuti.me/Images/mofuscroll2.gif");
+	height: 100%;
+    margin: 0;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	height: 1000px
+	}
+	</style>    
+   </head>	
+<div class="group">
+  <div class="images">
+  </br></br>
+    <img style="float: right;" src="Images/doodle.png" alt="Drawn by Kszs - https://twitter.com/trpgsa" width="300" height="800""/>
+  </div>
+  </br></br></br></br>
+  <div class="text">
+  </br>
+    <h1 style="" data-selector="h1">Kimura Kyoko
+				</h1>
+				<h3 style="" data-selector="h3">Female<br>
+				Age : 23
+				</h3>
+				<h5 style="" data-selector="h5">Personality: Kind, Carefree
+				</br>
+				Blood Type : A</h5>
+				
+				<h5 data-selector="h5" style="">
+				Likes: Strawberries, Shoyu Ramen, Farming/simulation games
+				</br>Dislikes: Nuts, Remembering things, RPG games</h5>
+				<p style="" data-selector="p">
+				A green fox that likes to hang out with others. Although she has little memory of her past,
+				</br>making memories makes her happy to be around with others.<br>
+				</br>
+				<a href="https://www.mofuti.me/lore" class="button">Backstory / Lore</a>
+				</div>
+
+
+</div>
+	<script>
+		ScrollReveal().reveal('.group');
+	</script>
    <body>
-     <p><a href="https://imgur.com/a/g2JWRLg">mofu</a></p>
+</br></br></br></br></br></br></br></br></br></br>
+   <div class="mid">
+		<h1 style="" data-selector="h1">Main Reference
+		</br>
+		</h1>
+	</div>
+		<script>
+		ScrollReveal().reveal('.mid');
+	</script>
+   <div class="ref">
+    <img src="Images/Refs/ref.png" alt="Main Reference" style="width:100%">
+  </div>
+  		<script>
+		ScrollReveal().reveal('.ref');
+	</script>
+   </br></br></br></br></br></br></br></br></br></br>
+   <div class="mid2">
+		<h1 style="" data-selector="h1">Other References | Hover for artist
+		</br>
+		</h1>
+	</div>
+			<script>
+		ScrollReveal().reveal('.mid2');
+	</script>
+</br>
+<div class="row">
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/CNAXfbq.jpg" alt="Avaloki - https://www.fiverr.com/avaloki " style="width:100%">
+		<div class="tooltip-content">
+		Avaloki - https://www.fiverr.com/avaloki
+		</div> 
+	</div>
+  </div>
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/0XYLqca.png" alt="BurntGreenTea - https://twitter.com/Burnt_Green_Tea" style="width:100%">
+		<div class="tooltip-content">
+		BurntGreenTea - https://twitter.com/Burnt_Green_Tea
+		</div> 
+	</div>
+  </div>
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/ebc7Dh4.png" alt="Kszs - https://twitter.com/trpgsa " style="width:100%">
+		<div class="tooltip-content">
+		Kszs - https://twitter.com/trpgsa
+		</div> 
+	</div>
+  </div>
+</div> 
+<div class="row">
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/b2H7dYt.jpg" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
+		<div class="tooltip-content">
+		Fluffy2sphere - https://twitter.com/Fluffy2Sphere
+		</div> 
+	</div>
+  </div>
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/2QMOCs9.jpg" alt="Cigarcat - https://twitter.com/Cigar_cat_art " style="width:100%">
+		<div class="tooltip-content">
+		Cigarcat - https://twitter.com/Cigar_cat_art
+		</div> 
+	</div>
+  </div>
+
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/5WyhMkZ.jpeg" alt="Virus.G - https://twitter.com/VirusG_Draws " style="width:100%">
+		<div class="tooltip-content">
+		Virus.G - https://twitter.com/VirusG_Draws	
+		</div> 
+	</div>
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/i1kYQgM.jpeg" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
+		<div class="tooltip-content">
+		Fluffy2sphere - https://twitter.com/Fluffy2Sphere
+		</div> 
+	</div>
+  </div>
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/9BNnLB7.jpeg" alt="SUPERREFLEX - https://twitter.com/SUPERREFLEX_art " style="width:100%">
+		<div class="tooltip-content">
+		SUPERREFLEX - https://twitter.com/SUPERREFLEX_art 	
+		</div> 
+	</div>
+  </div>
+  <div class="column">
+	<div class="tooltip-wrap">
+	<img src="https://i.imgur.com/8zp7mlq.jpg" alt="SilverTsuki - https://twitter.com/SilverTsuki_" style="width:100%">
+		<div class="tooltip-content">
+		SilverTsuki - https://twitter.com/SilverTsuki_
+		</div> 
+	</div>
+  </div>
+</div> 
+
+</br><br>
+
+<!--<a href="#" class="button">Other Images / Refs</a> -->
    </body>
+   
+
 </html>
