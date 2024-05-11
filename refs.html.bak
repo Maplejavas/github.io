@@ -4,6 +4,7 @@
         <title>refs</title>
 		<link rel="stylesheet" href="stylesheet2.css" type="text/css" charset="utf-8" />
 		<script src="https://unpkg.com/scrollreveal@4"></script>
+		<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 		
 	<style>
 					body{
@@ -80,83 +81,92 @@
 <div class="row">
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/CNAXfbq.jpg" alt="Avaloki - https://www.fiverr.com/avaloki " style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/CNAXfbq.jpg" alt="Avaloki - https://www.fiverr.com/avaloki " style="width:100%">
 		<div class="tooltip-content">
-		Avaloki - https://www.fiverr.com/avaloki
+		<a href="https://www.fiverr.com/avaloki">Avaloki</a>
 		</div> 
 	</div>
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/0XYLqca.png" alt="BurntGreenTea - https://twitter.com/Burnt_Green_Tea" style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/0XYLqca.png" alt="BurntGreenTea - https://twitter.com/Burnt_Green_Tea" style="width:100%">
 		<div class="tooltip-content">
-		BurntGreenTea - https://twitter.com/Burnt_Green_Tea
+		<a href="https://twitter.com/Burnt_Green_Tea">BurntGreenTea</a>
 		</div> 
 	</div>
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/ebc7Dh4.png" alt="Kszs - https://twitter.com/trpgsa " style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/ebc7Dh4.png" alt="Kszs - https://twitter.com/trpgsa " style="width:100%">
 		<div class="tooltip-content">
-		Kszs - https://twitter.com/trpgsa
+		<a href="https://twitter.com/trpgsa">Kszs</a>
 		</div> 
 	</div>
   </div>
 </div> 
+			<script>
+		ScrollReveal().reveal('.row');
+	</script>
 <div class="row">
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/b2H7dYt.jpg" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/b2H7dYt.jpg" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
 		<div class="tooltip-content">
-		Fluffy2sphere - https://twitter.com/Fluffy2Sphere
+		<a href="https://twitter.com/Fluffy2S">Fluffy2sphere</a>
 		</div> 
 	</div>
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/2QMOCs9.jpg" alt="Cigarcat - https://twitter.com/Cigar_cat_art " style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/2QMOCs9.jpg" alt="Cigarcat - https://twitter.com/Cigar_cat_art " style="width:100%">
 		<div class="tooltip-content">
-		Cigarcat - https://twitter.com/Cigar_cat_art
+		<a href="https://twitter.com/Cigar_cat_art">Cigarcat</a>
 		</div> 
 	</div>
   </div>
 
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/5WyhMkZ.jpeg" alt="Virus.G - https://twitter.com/VirusG_Draws " style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/5WyhMkZ.jpeg" alt="Virus.G - https://twitter.com/VirusG_Draws " style="width:100%">
 		<div class="tooltip-content">
-		Virus.G - https://twitter.com/VirusG_Draws	
+		<a href="https://twitter.com/VirusG_Draws">Virus.G</a>
 		</div> 
 	</div>
   </div>
 </div>
+			<script>
+		ScrollReveal().reveal('.row');
+	</script>
 <div class="row">
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/i1kYQgM.jpeg" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/i1kYQgM.jpeg" alt="Fluffy2sphere - https://twitter.com/Fluffy2Sphere " style="width:100%">
 		<div class="tooltip-content">
-		Fluffy2sphere - https://twitter.com/Fluffy2Sphere
+		<a href="https://twitter.com/Fluffy2S">Fluffy2sphere</a>
 		</div> 
 	</div>
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/9BNnLB7.jpeg" alt="SUPERREFLEX - https://twitter.com/SUPERREFLEX_art " style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/9BNnLB7.jpeg" alt="SUPERREFLEX - https://twitter.com/SUPERREFLEX_art " style="width:100%">
 		<div class="tooltip-content">
-		SUPERREFLEX - https://twitter.com/SUPERREFLEX_art 	
+		<a href="https://twitter.com/SUPERREFLEX_art">SUPERREFLEX</a> 	
 		</div> 
 	</div>
   </div>
   <div class="column">
 	<div class="tooltip-wrap">
-	<img src="https://i.imgur.com/8zp7mlq.jpg" alt="SilverTsuki - https://twitter.com/SilverTsuki_" style="width:100%">
+	<img data-enlargable src="https://i.imgur.com/8zp7mlq.jpg" alt="SilverTsuki - https://twitter.com/SilverTsuki_" style="width:100%">
 		<div class="tooltip-content">
-		SilverTsuki - https://twitter.com/SilverTsuki_
+		 <a href="https://twitter.com/SilverTsuki_">SilverTsuki</a>
 		</div> 
 	</div>
   </div>
 </div> 
-
+			<script>
+		ScrollReveal().reveal('.row');
+	</script>
+<script src="lore.js"></script>
 </br><br>
 
 <!--<a href="#" class="button">Other Images / Refs</a> -->
