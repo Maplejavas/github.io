@@ -19,7 +19,7 @@ main{
     max-height:100%;
 }
 
-.tumblr {
+.bsky {
   overflow: hidden;
   display:inline;
   text-align:center;
@@ -27,7 +27,7 @@ main{
 img {
   transition: transform 0.25s;
 }
-.tumblr:hover img {
+.bsky:hover img {
   transform: scale(1.1);
 }
 
